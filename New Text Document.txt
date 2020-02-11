@@ -1,0 +1,81 @@
+Last session
+============
+--Linux..
+--intro scm repo..
+
+	1.code centralised
+	2.version control
+	3.sharing code
+	4.security
+	5.to automation/triggers
+
+--svn,git,github..
+--TFS,cvs,mercurial,perforce
+
+			svn(subversion)
+			----------------
+--life cycle..
+	1.svn checkout/svn up
+	2.changes in local repo..add,modf,del,rename..
+	3.svn commit
+
+
+--local repo/working copy
+--repo config/setup,resolve conflicts
+
+--installation...server
+---------------
+1.subversion(svn+repo)
+2.apache
+
+bitnami subversion..subversion+apache
+
+
+version..1.10.x =< 1.13.x ..rhel7/centos7
+	 1.9.1 =< 1.9.9 ....rhel6/centos6
+
+client/dev.. wind
+------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
